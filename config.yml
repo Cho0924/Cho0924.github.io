@@ -1,0 +1,15 @@
+baseURL: 'https://Cho0924.github.io/'
+languageCode: ja
+title: Cho
+theme: PaperMod
+
+defaultContentLanguage: ja
+
+params:
+  profileMode:
+    enabled: true
+    subtitle: "cho desu"
+    imageUrl: "apple_c.jpg"
+    imageTitle: "my icon"
+    imageWidth: 200
+    imageHeight: 200
