@@ -10,7 +10,7 @@ params:
   defaultTheme: auto
   profileMode:
     enabled: true
-    subtitle: "choです"
+    subtitle: "こんにちは。choです。"
     imageUrl: "apple_c.jpg"
     imageTitle: "my icon"
     imageWidth: 200
