@@ -1,4 +1,4 @@
-baseURL: 'https://Cho0924.github.io/'
+baseURL: 'https://cho0924.github.io/'
 languageCode: ja
 title: Cho
 theme: PaperMod
@@ -6,6 +6,8 @@ theme: PaperMod
 defaultContentLanguage: ja
 
 params:
+  env: production
+  defaultTheme: auto
   profileMode:
     enabled: true
     subtitle: "cho desu"
